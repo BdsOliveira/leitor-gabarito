@@ -1,8 +1,8 @@
 <?php
 
-namespace App\LeitorGabarito;
+namespace App\Http\Controllers;
 
-class Image 
+class Image extends Controller
 {
 
     protected $image;
